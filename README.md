@@ -1,44 +1,30 @@
-# vCard - Personal portfolio
+# Ashwin Shibu Sebu — Engineering Portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+Personal portfolio website showcasing my academic background, engineering projects, technical skills, and professional development.
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+## About Me
 
-## Demo
+I'm an MSc Aerospace Engineering student at the University of Bologna, Italy, with a BSc in Engineering Sciences from the University of Rome Tor Vergata.
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+My interests include aerospace systems, mechanical design, engineering simulation, programming, and the application of machine learning to engineering problems.
 
-## Prerequisites
+## Portfolio Website
 
-Before you begin, ensure you have met the following requirements:
+**[Visit My Portfolio](https://ashwinshibu-sebu.github.io/)**
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+The website includes:
+- Academic background and technical skills
+- Engineering projects and practical experience
+- Resume and professional information
+- Contact details
 
-## Installing vCard
+## Built With
 
-To install **vCard**, follow these steps:
+- HTML
+- CSS
+- JavaScript
+- GitHub Pages
 
-Linux and macOS:
+## Status
 
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.x.com/codewithsadee_).
-
-## License
-
-MIT
+This portfolio is actively being updated as I develop new technical skills and complete additional engineering projects.
